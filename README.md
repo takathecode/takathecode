@@ -1,5 +1,5 @@
 <!-- Header com animação sutil -->
-<h1 align="center">✨ Hi I'am Felippe Takahashi</h1>
+<h1 align="center">👋 Hi I'am Felippe Takahashi</h1>
 <h3 align="center">🚀 Web Development Student | JavaScript | Database🗄️</h3>
 
 <!-- Banner de estatísticas (opcional, mas fica bem legal) -->
