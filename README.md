@@ -22,9 +22,6 @@
 <p align="left">
   <img src="https://skillicons.dev/icons?i=js,html,css,nodejs,express,mongodb,mysql,git" />
 </p>
-
-> *Os badges acima são gerados automaticamente pelo [Skill Icons](https://skillicons.dev).*
-
 ---
 
 <!-- Projetos em destaque -->
